@@ -1,36 +1,13 @@
-# DSA-Journey
-DSA Notes &amp; Question
+# DSA Journey
+
+This repository contains my progress and solutions as I learn and practice Data Structures and Algorithms (DSA).
 
 
-DSA-Journey/
-├── Foundations/
-│   ├── Programming-Basics/
-│   │   ├── Variables-DataTypes-Operators/
-│   │   ├── Conditional-Statements-Loops/
-│   │   └── Functions/
-│   ├── Time-Complexity/
-│   └── Math-for-Programming/
-├── Core-Data-Structures/
-│   ├── Arrays-Strings/
-│   ├── Linked-Lists/
-│   ├── Stacks-Queues/
-│   ├── Hash-Tables/
-│   ├── Trees/
-│   └── Heaps/
-├── Core-Algorithms/
-│   ├── Sorting-Algorithms/
-│   ├── Searching-Algorithms/
-│   ├── Recursion-Backtracking/
-│   ├── Dynamic-Programming/
-│   ├── Greedy-Algorithms/
-│   └── Graph-Algorithms/
-├── Advanced-Topics/
-│   ├── Advanced-Trees/
-│   ├── Advanced-Graphs/
-│   ├── Advanced-DP/
-│   ├── Bit-Manipulation/
-│   └── Segment-Trees/
-├── Practice/
-│   ├── Mock-Interviews/
-│   └── System-Design/
-└── README.md
+## How to Use
+- Each folder contains code solutions and notes for a specific topic.
+- Navigate to the relevant folder to view solutions and resources.
+
+## Progress
+- Daily updates and problem-solving progress will be tracked here.
+
+https://1drv.ms/x/s!Al9yIj3x9O0cjZ9X7-n7cawIWa6wdQ?e=zEgYLb
